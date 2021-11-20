@@ -1,8 +1,5 @@
 # Covid-19-Prediction-for-South-African
-Prediction for South African
- 
-Covid 19 prediction for South African
-analyzing and predicting the coronavirus(COVID-19) cases and death cases of South Africa using "Power Bi" for visualizations and linear regression in python for the prediction model.
+ Covid 19 prediction for South African analyzing and predicting the coronavirus(COVID-19) cases and death cases of South Africa using "Power Bi" for visualizations and linear regression in python for the prediction model.
 
 II. INTRODUCTION
 
